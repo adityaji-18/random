@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "No skin-to-skin contact: India 'outrageous' sexual assault order struck down",
+      "description": "The Supreme Court reversed an order that cleared a man of sexual assault as \"there was no skin-to-skin contact\".",
+      "url": "http://www.bbc.co.uk/news/world-asia-india-58825373",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B16/production/_120885748_gettyimages-565046013-170667a.jpg",
+      "publishedAt": "2021-11-18T05:37:21.2606856Z",
+      "content": "Image source, Getty Images\r\nImage caption, Child sexual abuse is a major problem in India with tens of thousands of cases reported every year\r\nThe Indian Supreme Court has struck down a controversial… [+3154 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Baby elephant dies after losing half its trunk in poacher's trap",
+      "description": "The one-year-old calf succumbed to its injuries two days after being rescued by Indonesian villagers.",
+      "url": "http://www.bbc.co.uk/news/world-asia-59328903",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24AD/production/_121598390_hi071983362.jpg",
+      "publishedAt": "2021-11-18T04:07:23.6506045Z",
+      "content": "Image caption, The calf was found by villagers in the town of Aceh Jaya\r\nA baby Sumatran elephant has died after losing half its trunk to a trap set by poachers in Indonesia.\r\nThe critically endanger… [+1169 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Poland border crisis: Belarus moves migrants stranded in camp",
+      "description": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+      "url": "http://www.bbc.co.uk/news/world-europe-59317306",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D5E7/production/_121595745_gettyimages-1236615425-594x594.jpg",
+      "publishedAt": "2021-11-18T00:37:22.8924232Z",
+      "content": "Image source, Getty Images\r\nImage caption, Many of the migrants in Belarus have said they do not wish to return to their home countries\r\nBelarus has said temporary shelter has been provided for about… [+4387 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Young Dolph: Rapper fatally shot in Memphis cookie store",
+      "description": "Stars such as Megan Thee Stallion and Chance The Rapper are paying tribute to the rap star.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59328402",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/706B/production/_121597782_gettyimages-1346493016.jpg",
+      "publishedAt": "2021-11-18T00:37:19.1277332Z",
+      "content": "Image source, Getty Images\r\nImage caption, The rapper was shot in Memphis on Wednesday\r\nUS rapper Young Dolph has been killed in a drive by shooting in Memphis, officials have confirmed. \r\nThe 36-yea… [+1603 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Alec Baldwin: Rust script didn't call for gun to be fired, lawsuit alleges",
+      "description": "A crew member is suing the actor over the fatal on-set shooting of cinematographer Halyna Hutchins.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59328040",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4CDF/production/_121597691_gettyimages-1353875994-1.jpg",
+      "publishedAt": "2021-11-18T00:22:27.5659781Z",
+      "content": "Image source, Getty Images\r\nImage caption, Mamie Mitchell (left) and her lawyer Gloria Allred spoke to the media on Wednesday\r\nA lawsuit against Alec Baldwin alleges that a film script did not requir… [+2545 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Why Mexico is not prepared for the migrant caravan",
+      "description": "Thousands of migrants are travelling north, often expecting US entry will be easier than before.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59325468",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2A1B/production/_121597701_p0b4x31v.jpg",
+      "publishedAt": "2021-11-18T00:22:23.7700476Z",
+      "content": "A single issue has dominated the US-Mexico relationship in recent years: immigration. \r\nFor President Donald Trump, it was almost the only lens through which the White House considered its relationsh… [+357 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Peng Shuai: Doubt cast on email from Chinese tennis star",
+      "description": "The head of the WTA says he has a \"hard time believing\" email attributed to Peng Shuai is from her.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-59325399",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14F09/production/_121596758_gettyimages-1171678593.jpg",
+      "publishedAt": "2021-11-17T21:52:21.4724372Z",
+      "content": "Image source, Getty Images\r\nImage caption, An email allegedly from Ms Peng denied she was missing\r\nThe head of the Women's Tennis Association (WTA) has cast doubt on an email released by Chinese stat… [+2242 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Malcolm X's 1965 assassination: Convictions of two men to be quashed",
+      "description": "Two of the men convicted of the 1965 killing did not get the justice they deserved, prosecutor says.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59327673",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12282/production/_117107347_gettyimages-515287438.jpg",
+      "publishedAt": "2021-11-17T21:37:23.171625Z",
+      "content": "Image source, Getty Images\r\nImage caption, Malcolm X was 39 when he was gunned down in New York City\r\nA senior US prosecutor says two men convicted of the murder in 1965 of the US civil rights leader… [+1907 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Merkel: Germany hit by full force of Covid",
+      "description": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+      "url": "http://www.bbc.co.uk/news/world-europe-59320515",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/84A7/production/_121595933_976_afp_gettyimages-1236617930.jpg",
+      "publishedAt": "2021-11-17T17:37:28.227899Z",
+      "content": "Image caption, Queues were reported as Germans responded to calls to get vaccinated\r\nGermany is in the grip of a \"dramatic\" fourth Covid wave, Chancellor Angela Merkel has said on the eve of a crisis… [+3419 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Vancouver storm: Minister says there is \"no doubt\" it is linked to climate change",
+      "description": "Mike Farnworth says he has \"no doubt these are climate-related events\", as at least one person dies.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59324764",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3EB1/production/_121594061_hi072020657-1.jpg",
+      "publishedAt": "2021-11-17T17:22:23.8291226Z",
+      "content": "Media caption, Watch: British Columbia left devastated after storm\r\nA Canadian minister has said he has \"no doubt\" that a deadly storm in British Columbia is linked to climate change. \r\nThousands wer… [+2883 chars]"
+    }
+  ]
+}
